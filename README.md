@@ -11,6 +11,7 @@ I'm rege-97, a backend developer.
     <td><strong>Languages</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
     </td>
@@ -18,9 +19,13 @@ I'm rege-97, a backend developer.
   <tr>
     <td><strong>Frontend</strong></td>
     <td>
+      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React_Navigation-CA4245?style=flat-square"/>
+      <img src="https://img.shields.io/badge/React_Native_Paper-6200EE?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square"/>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"/>
       <img src="https://img.shields.io/badge/JSTL-116149?style=flat-square"/>
       <img src="https://img.shields.io/badge/Expression_Language-505050?style=flat-square"/>
@@ -29,10 +34,15 @@ I'm rege-97, a backend developer.
   <tr>
     <td><strong>Backend</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring_Framework-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MyBatis-0052CC?style=flat-square"/>
       <img src="https://img.shields.io/badge/JSP-007396?style=flat-square"/>
       <img src="https://img.shields.io/badge/Servlet-6A5ACD?style=flat-square"/>
-      <img src="https://img.shields.io/badge/MyBatis-0052CC?style=flat-square"/>
+      <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Mockito-7A1FA2?style=flat-square"/>
     </td>
   </tr>
   <tr>
@@ -41,6 +51,9 @@ I'm rege-97, a backend developer.
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
       <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/>
+      <img src="https://img.shields.io/badge/AWS_Elastic_Beanstalk-FF9900?style=flat-square&logo=awselasticbeanstalk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS_RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -52,15 +65,23 @@ I'm rege-97, a backend developer.
       <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
       <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-      <img src="https://img.shields.io/badge/DBeaver-372923?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/DBeaver-372923?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
+      <img src="https://img.shields.io/badge/ERD_Cloud-00B2E1?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
     </td>
   </tr>
 </table>
 
 
+
+
 ---
 
 ### 📌 Pinned Projects
+
+- 📱 [잊지마 (Itjima)](https://github.com/Rege-97/Itjima)  
+  Spring Boot + React Native 기반의 개인 간 물품·금전 대여 관리 앱
 
 - 🐶 [Animal Care Platform](https://github.com/Rege-97/Animal-Care-Platform)  
   Spring 기반의 유기동물 입양·봉사·후원 관리 프로젝트
