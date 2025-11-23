@@ -37,6 +37,7 @@ I'm rege-97, a backend developer.
       <img src="https://img.shields.io/badge/Spring_Framework-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
       <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
       <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
       <img src="https://img.shields.io/badge/MyBatis-0052CC?style=flat-square"/>
       <img src="https://img.shields.io/badge/JSP-007396?style=flat-square"/>
@@ -49,8 +50,10 @@ I'm rege-97, a backend developer.
     <td><strong>Database & Server</strong></td>
     <td>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
       <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
       <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/>
+      <img src="https://img.shields.io/badge/AWS_ECS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
       <img src="https://img.shields.io/badge/AWS_Elastic_Beanstalk-FF9900?style=flat-square&logo=awselasticbeanstalk&logoColor=white"/>
       <img src="https://img.shields.io/badge/AWS_RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"/>
       <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
@@ -75,10 +78,12 @@ I'm rege-97, a backend developer.
 
 
 
-
 ---
 
 ### 📌 Pinned Projects
+
+- 🎬 [영화 예매 시스템](https://github.com/Rege-97/movie-booking-backend)  
+  Spring Boot + Redis 기반의 대용량 트래픽 영화 예매 시스템
 
 - 📱 [잊지마 (Itjima)](https://github.com/Rege-97/Itjima)  
   Spring Boot + React Native 기반의 개인 간 물품·금전 대여 관리 앱
